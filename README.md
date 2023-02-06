@@ -1,6 +1,6 @@
-### [자료구조]
-- Huffman 코딩 보고서 (자료구조 응용 프로그램 구현) (200529)
+### [Data Structure/자료구조]
+- Huffman Coding Report / Huffman 코딩 보고서 (200529)
 
-### [Presentation](https://github.com/furthermares/KPU-DS-A2/blob/main/Report.pptx)
+### [Presentation/발표 자료](https://github.com/furthermares/KPU-DS-A2/blob/main/Report.pptx)
 
-[구현 결과](https://github.com/furthermares/KPU-DS-A3)
+[Final Result/구현 결과](https://github.com/furthermares/KPU-DS-A3)
